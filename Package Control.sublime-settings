@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"DocBlockr",
+		"Emmet",
+		"jQuery",
+		"JsFormat",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Terminal",
+		"Theme - Spacegray"
+	]
+}
